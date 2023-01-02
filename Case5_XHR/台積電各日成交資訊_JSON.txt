@@ -1,0 +1,5 @@
+http://www.twse.com.tw/exchangeReport/STOCK_DAY?response=json&date=20210101&stockNo=2330
+
+110年01月 2330 台積電各日成交資訊
+日期,成交股數,成交金額,開盤價,最高價,最低價,收盤價,漲跌價差,成交筆數
+
